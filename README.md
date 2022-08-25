@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![NP's GitHub stats](https://github-readme-stats.vercel.app/api?username=PR0Grammar&show_icons=true&theme=radical)
+
 ![Profile Views](https://gpvc.arturio.dev/PR0Grammar)
 
 <!--
